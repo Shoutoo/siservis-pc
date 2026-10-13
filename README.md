@@ -6,7 +6,7 @@ Universitas Duta Bangsa Surakarta
 
 - **Nama**: Muhammad Soffin Halim Sampurna
 - **NIM**: 240104019
-- **Tautan Repositori GitHub**: [https://github.com/soffinhalim/siservis-pc](https://github.com/soffinhalim/siservis-pc)
+- **Tautan Repositori GitHub**: [https://github.com/Shoutoo/siservis-pc](https://github.com/Shoutoo/siservis-pc)
 - **Deployment Vercel**: [https://siservis-pc.vercel.app](https://siservis-pc.vercel.app)
 
 ---
