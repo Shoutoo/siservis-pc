@@ -46,3 +46,6 @@ siservis-pc/
    ```
 3. **Buka Browser**
    Kunjungi [http://localhost:8000](http://localhost:8000)
+
+## ??? Kebijakan Garansi Servis
+Setiap perbaikan hardware disertai garansi pengerjaan 14 hari kerja.
