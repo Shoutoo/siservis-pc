@@ -2,7 +2,7 @@
 /**
  * SiServis-PC: Sistem Informasi Manajemen & Tracking Servis Perangkat Komputer
  * Ujian Tengah Semester (UTS) Rekayasa Perangkat Lunak
- * Mahasiswa: Soffin Halim (NIM: 240104019)
+ * Mahasiswa: Muhammad Soffin Halim Sampurna (NIM: 240104019)
  * Program Studi: D3 Teknik Komputer 24A1 - Universitas Duta Bangsa
  */
 
@@ -54,7 +54,7 @@ $databaseTiket = [
         'jenis_perangkat' => 'All-in-One PC',
         'merk_model' => 'HP 24-df0012d AIO',
         'keluhan' => 'Kinerja sangat lambat dan sering freeze saat booting awal',
-        'teknisi' => 'Soffin Halim (Koordinator Lab)',
+        'teknisi' => 'Muhammad Soffin Halim Sampurna (Koordinator Lab)',
         'tingkat_kerusakan' => 'Ringan',
         'status' => 'Selesai',
         'step_progress' => 5,
@@ -454,7 +454,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['hitung_estimasi'])) {
             <p>Sistem Informasi Manajemen & Live Tracking Servis Perangkat Komputer</p>
         </div>
         <div class="badge-academic">
-            <strong>Soffin Halim</strong> (NIM: 240104019)<br>
+            <strong>Muhammad Soffin Halim Sampurna</strong> (NIM: 240104019)<br>
             Kelas: D3 Teknik Komputer 24A1 | Semester V<br>
             Server Time: <?= htmlspecialchars($currentTime) ?> WIB
         </div>

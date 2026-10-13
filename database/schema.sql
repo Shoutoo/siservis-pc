@@ -1,7 +1,7 @@
 -- =====================================================================
 -- SKEMA BASIS DATA: SiServis-PC
 -- Sistem Informasi Manajemen & Tracking Servis Perangkat Komputer
--- Pengembang: Soffin Halim (NIM: 240104019)
+-- Pengembang: Muhammad Soffin Halim Sampurna (NIM: 240104019)
 -- Mata Kuliah: Rekayasa Perangkat Lunak - D3 Teknik Komputer 24A1
 -- =====================================================================
 
@@ -88,7 +88,7 @@ CREATE TABLE IF NOT EXISTS log_status_servis (
 -- =====================================================================
 
 INSERT INTO users (id_user, username, password_hash, nama_lengkap, role, no_telp) VALUES
-(1, 'admin', MD5('admin123'), 'Soffin Halim (Koordinator Lab)', 'admin', '081234567890'),
+(1, 'admin', MD5('admin123'), 'Muhammad Soffin Halim Sampurna (Koordinator Lab)', 'admin', '081234567890'),
 (2, 'teknisi1', MD5('tek123'), 'Budi Pratama (Teknisi Hardware)', 'teknisi', '081298765432');
 
 INSERT INTO pelanggan (id_pelanggan, nama, no_hp, alamat, email) VALUES

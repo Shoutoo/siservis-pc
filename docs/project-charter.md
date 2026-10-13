@@ -2,7 +2,7 @@
 
 ## 1. Identitas Proyek
 - **Nama Proyek**: SiServis-PC (Sistem Informasi Manajemen & Tracking Servis Perangkat Komputer)
-- **Pengembang**: Soffin Halim (NIM: 240104019)
+- **Pengembang**: Muhammad Soffin Halim Sampurna (NIM: 240104019)
 - **Program Studi**: D3 Teknik Komputer 24A1
 - **Mata Kuliah**: Rekayasa Perangkat Lunak
 

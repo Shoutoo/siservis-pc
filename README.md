@@ -4,7 +4,7 @@ Repositori Proyek Ujian Tengah Semester (UTS) Mata Kuliah **Rekayasa Perangkat L
 Program Studi **D3 Teknik Komputer** (Kelas 24A1 / Semester V)  
 Universitas Duta Bangsa Surakarta
 
-- **Nama**: Soffin Halim
+- **Nama**: Muhammad Soffin Halim Sampurna
 - **NIM**: 240104019
 - **Tautan Repositori GitHub**: [https://github.com/soffinhalim/siservis-pc](https://github.com/soffinhalim/siservis-pc)
 - **Deployment Vercel**: [https://siservis-pc.vercel.app](https://siservis-pc.vercel.app)
