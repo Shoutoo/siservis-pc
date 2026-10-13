@@ -48,4 +48,8 @@ siservis-pc/
    Kunjungi [http://localhost:8000](http://localhost:8000)
 
 ## ??? Kebijakan Garansi Servis
+<<<<<<< HEAD
 Setiap perbaikan hardware disertai garansi pengerjaan 30 hari kalender (Garansi Standar Lab).
+=======
+Setiap perbaikan hardware disertai garansi pengerjaan 60 hari kalender (Garansi Plus Teknisi).
+>>>>>>> conflict-b
